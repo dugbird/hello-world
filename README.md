@@ -3,5 +3,5 @@
 tutorial
 ```
 Dug Birdzell
-dugebird@gmail.com
+dbirdzell@gmail.com
 ```
